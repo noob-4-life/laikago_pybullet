@@ -1,5 +1,6 @@
 We make a clean workspace that only has laikago here.
+
 After pybullet is installed:
 
-### Run
+###Run
 python laikago.py
