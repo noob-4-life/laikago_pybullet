@@ -1,6 +1,7 @@
 We make a clean workspace that only has laikago here.
 
-After [Pybullet](https://github.com/erwincoumans/pybullet_robots) is installed:
+### Dependencies
+* [Pybullet](https://github.com/erwincoumans/pybullet_robots)
 
 ### Run
 * `python laikago.py`
